@@ -1,0 +1,240 @@
+Batido de Frutas
+desayuno
+5
+Licua pl tano maduro, fresas frescas y yogur natural hasta obtener una mezcla suave y cremosa.
+Mar¡a
+S nchez
+Canela
+2
+Chia
+4
+Fresas
+6
+Hielo
+4
+Leche de almendra
+1
+Miel
+20
+Pl tano
+1
+Proteina(opcional)
+20
+Semillas de linaza
+4
+Yogur
+2
+S ndwich de Pavo
+comida
+10
+Armar un s ndwich con pavo asado, lechuga fresca y rodajas de tomate en pan integral. A¤ade mostaza y mayonesa al gusto.
+Jorge
+Ram¡rez
+Aguacate
+4
+Lechuga
+2
+Mayonesa
+1
+Mostaza
+1
+Panecillos
+10
+Pavo
+15
+Pimienta negra molida
+5
+Queso (opcional)
+4
+Sal
+2
+Tomate
+2
+Ensalada C‚sar
+comida
+15
+Mezcla lechuga fresca, crutones caseros y aderezo C‚sar cremoso. Decora con queso parmesano reci‚n rallado y anchoas.
+Carlos
+Gonz lez
+Aceite de oliva
+2
+Ajo
+3
+Crutones
+1
+Lechuga romana
+1
+Lim¢n
+4
+Mostaza Dijon
+4
+Pimienta negra molida
+3
+Queso parmesano
+2
+Salsa C‚sar
+1
+Vinagre de vino tinto
+2
+Ensalada de Frutas
+navideno
+15
+Corta pi¤a, manzana y uvas en trozos peque¤os. Mezcla con jugo de naranja y un toque de miel. Refrigera antes de servir.
+Laura
+D¡az
+Fresas (opcional)
+4
+Hojas de menta fresca
+3
+Kiwi
+200
+Manzana
+1
+Miel
+20
+Naranjas
+1
+Papaya
+1
+Pi¤a
+1
+Uvas
+20
+Zumo de lim¢n
+1
+Omelette de Champi¤ones
+desayuno
+20
+Batir los huevos y cocinar con champi¤ones salteados en mantequilla. Sirve caliente con queso rallado por encima.
+Elena
+P‚rez
+Cebolla (opcional)
+2
+Champi¤ones
+50
+Huevos
+6
+Jam¢n
+10
+Mantequilla
+2
+Perejil picado (opcional)
+5
+Pimienta negra molida
+1
+Pimiento rojo
+1
+Queso rallado
+3
+Sal
+100 gramos
+Pollo a la Parrilla
+comida
+30
+Marinar el pollo en una mezcla de ajo, pimienta y lim¢n durante 2 horas. Luego, asa a la parrilla hasta que est‚ dorado y bien cocido. Sirve con una guarnici¢n de ensalada de col.
+Mar¡a
+L¢pez
+Aceite de Oliva
+1
+Ajo
+1
+Hierbas frescas
+2
+Limon
+1
+Mostaza
+5
+Pechugas de pollo
+4
+Pimienta
+1
+Pimienta negra molida
+34
+Sal
+1
+Sal
+24
+Pizza Casera
+cena
+35
+Prepara la masa de pizza casera y c£brela con salsa de tomate, queso mozzarella y tus ingredientes favoritos. Hornea hasta que el queso est‚ dorado y burbujeante.
+Pablo
+G¢mez
+Sopa de Tomate
+comida
+40
+Cocina tomates maduros, cebolla y ajo en aceite de oliva. Luego, lic£a la mezcla y s¡rvela caliente con una cucharada de crema fresca.
+Ana
+Rodr¡guez
+Aceite de oliva
+3
+Ajo
+2
+Albahaca (opcional)
+1
+Caldo de pollo o vegetal (opcional)
+1
+Cebolla
+4
+Crema fresca (opcional, para servir)
+1
+Perejil fresco (opcional, para decorar)
+2
+Pimienta negra molida
+1
+Sal
+2
+Tomates
+10
+Pastel de Chocolate
+cena
+45
+Mezcla harina, az£car, cacao, huevos, leche, aceite y polvo de hornear, luego hornea a 180øC durante 30 minutos para obtener un delicioso pastel de chocolate
+Luis
+Mart¡nez
+Az£car
+100
+Chocolate
+200
+Esencia de vainilla
+1
+Fresas (opcional)
+4
+Harina
+150
+Huevos
+5
+Leche
+2
+Mantequilla
+2
+Polvo de hornear (levadura qu¡mica)
+1
+Sal
+2
+Tarta de Manzana
+desayuno
+60
+Mezcla los ingredientes y hornea a 180øC durante 45 minutos. Luego, espolvorea az£car glas por encima antes de servir.
+Juan
+P‚rez
+Az£car
+200
+Chocolate
+4
+Esencia de vainilla
+30
+Harina
+20
+Leche
+200
+Mantequilla
+50
+Manzanas
+4
+Polvo para hornear
+20
+Sal
+29
+Chocolate
+210 gramos

@@ -1,0 +1,289 @@
+2
+Tarta de Manzana
+desayuno
+60
+Mezcla los ingredientes y hornea a 180°C durante 45 minutos. Luego, espolvorea azúcar glas por encima antes de servir.
+Juan
+Pérez
+10
+Manzanas
+4
+Azúcar
+200
+Mantequilla
+50
+Harina
+20
+Leche
+200
+Polvo para hornear
+20
+Esencia de vainilla
+30
+Sal
+29
+Chocolate
+4
+Frutas
+2
+1
+2
+Pollo a la Parrilla
+comida
+30
+Marinar el pollo en una mezcla de ajo, pimienta y limón durante 2 horas. Luego, asa a la parrilla hasta que esté dorado y bien cocido. Sirve con una guarnición de ensalada de col.
+María
+López
+10
+Pechugas de pollo
+4
+Sal
+1
+Pimienta
+1
+Aceite de Oliva
+1
+Ajo
+1
+Limon
+1
+Sal
+24
+Pimienta negra molida
+34
+Hierbas frescas
+2
+Mostaza
+5
+2
+2
+Ensalada César
+comida
+15
+Mezcla lechuga fresca, crutones caseros y aderezo César cremoso. Decora con queso parmesano recién rallado y anchoas.
+Carlos
+González
+10
+Lechuga romana
+1
+Crutones
+1
+Queso parmesano
+2
+Salsa César
+1
+Aceite de oliva
+2
+Limón
+4
+Pimienta negra molida
+3
+Ajo
+3
+Mostaza Dijon
+4
+Vinagre de vino tinto
+2
+3
+2
+Sopa de Tomate
+comida
+40
+Cocina tomates maduros, cebolla y ajo en aceite de oliva. Luego, licúa la mezcla y sírvela caliente con una cucharada de crema fresca.
+Ana
+Rodríguez
+10
+Tomates
+10
+Cebolla
+4
+Ajo
+2
+Aceite de oliva
+3
+Caldo de pollo o vegetal (opcional)
+1
+Albahaca (opcional)
+1
+Sal
+2
+Pimienta negra molida
+1
+Crema fresca (opcional, para servir)
+1
+Perejil fresco (opcional, para decorar)
+2
+4
+2
+Pastel de Chocolate
+cena
+45
+Preparar la masa de chocolate con chocolate negro de alta calidad. Hornea hasta que un palillo salga limpio. Cubre con ganache de chocolate.
+Luis
+Martínez
+10
+Chocolate
+200
+Harina
+150
+Azúcar
+100
+Huevos
+5
+Mantequilla
+2
+Leche
+2
+Polvo de hornear (levadura química)
+1
+Esencia de vainilla
+1
+Sal
+2
+Fresas (opcional)
+4
+5
+2
+Sándwich de Pavo
+comida
+10
+Armar un sándwich con pavo asado, lechuga fresca y rodajas de tomate en pan integral. Añade mostaza y mayonesa al gusto.
+Jorge
+Ramírez
+10
+Pavo
+15
+Lechuga
+2
+Tomate
+2
+Mostaza
+1
+Mayonesa
+1
+Sal
+2
+Pimienta negra molida
+5
+Queso (opcional)
+4
+Aguacate
+4
+Panecillos
+10
+6
+2
+Omelette de Champiñones
+desayuno
+20
+Batir los huevos y cocinar con champiñones salteados en mantequilla. Sirve caliente con queso rallado por encima.
+Elena
+Pérez
+10
+Huevos
+6
+Champiñones
+50
+Mantequilla
+2
+Sal
+Pimienta negra molida
+1
+Queso rallado
+3
+Perejil picado (opcional)
+5
+Cebolla (opcional)
+2
+Pimiento rojo
+1
+Jamón
+10
+7
+2
+Pizza Casera
+cena
+35
+Prepara la masa de pizza casera y cúbrela con salsa de tomate, queso mozzarella y tus ingredientes favoritos. Hornea hasta que el queso esté dorado y burbujeante.
+Pablo
+Gómez
+10
+Harina
+250
+Salsa de tomate
+200
+Queso mozzarella
+200
+Pepperoni
+30
+Champiñones
+10
+Pimientos
+5
+Oregano
+1
+Albahaca fresca
+1
+Queso mozzarella
+2
+Salsa de tomate
+2
+8
+2
+Batido de Frutas
+desayuno
+5
+Licua plátano maduro, fresas frescas y yogur natural hasta obtener una mezcla suave y cremosa.
+María
+Sánchez
+10
+Plátano
+1
+Fresas
+6
+Yogur
+2
+Miel
+20
+Hielo
+4
+Leche de almendra
+1
+Canela
+2
+Chia
+4
+Semillas de linaza
+4
+Proteina(opcional)
+20
+8
+2
+Ensalada de Frutas
+navideno
+15
+Corta piña, manzana y uvas en trozos pequeños. Mezcla con jugo de naranja y un toque de miel. Refrigera antes de servir.
+Laura
+Díaz
+10
+Piña
+1
+Manzana
+1
+Uvas
+20
+Kiwi
+3
+Fresas (opcional)
+4
+Naranjas
+1
+Miel
+20
+Zumo de limón
+1
+Hojas de menta fresca
+3
+Papaya
+1
+10
